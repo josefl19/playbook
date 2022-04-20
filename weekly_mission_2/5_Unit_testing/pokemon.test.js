@@ -1,0 +1,11 @@
+import Pokemon from './pokemon'
+
+test('1) Create a new object pokemon', () => {
+  const myPokemon = new Pokemon("Pikachu");
+  expect(myPokemon.name).toBe("Pikachu"); // Corrige esta prueba
+});
+
+test('1) Create a new object pokemon', () => {
+  const myPokemon = new Pokemon("Pikachu", "Electrico", 8);
+  expect(myPokemon.type).toBe("Electrico");
+});

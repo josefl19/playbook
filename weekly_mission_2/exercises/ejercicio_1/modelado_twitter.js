@@ -69,7 +69,3 @@ const trending_topic = {
     ],
     people: [user, user, user, user]
 }
-
-const hashtag = {
-
-}

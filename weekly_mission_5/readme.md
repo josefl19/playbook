@@ -1,4 +1,4 @@
-# Semana 5 
+# Semana 5
 
 Proyectos desarrollados en la semana 3:
 
